@@ -87,7 +87,7 @@ Outputs metadata that can be reused in:
 
 > Prototype screenshot below:
 
-![SchemaBrain Screenshot](./screenshot.png)
+![SchemaBrain Screenshot](./schemabrain_main.png)
 
 ---
 
